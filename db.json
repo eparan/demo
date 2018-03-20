@@ -1,14 +1,18 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+            {
+              "title": "JSONEvent1",
+              "start": "2018-03-01"
+            },
+            {
+              "title": "JSONEvent2",
+              "start": "2018-03-03"
+            },
+            {
+              "title": "JSONEvent3",
+              "start": "2018-03-04"
+            },
+            {
+              "title": "JSONEvent4",
+              "start": "2018-03-06"
+            }
+]
