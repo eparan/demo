@@ -24,8 +24,8 @@
     "title": "휴대폰결제",
     "amount": "3,231,444",
     "start": "2018-03-05",
-    "color": "#e9fded", // 지급예정 배경색상 
-    "textColor": "#000" // 지급예정 폰트색상 
+    "color": "#e9fded",
+    "textColor": "#000"
   },
 
   {
