@@ -50,7 +50,7 @@
     "textColor": "#000"
   },
   {
-    "title": "합계",
+    "title": "[ 합 계 ]",
     "amount": "32,345,678,901",
     "start": "2018-03-07",
     "color": "#FFEDED",
@@ -113,7 +113,7 @@
     "textColor": "#000"
   },
   {
-    "title": "합계",
+    "title": "[ 합 계 ]",
     "amount": "32,345,678,901",
     "start": "2018-03-08",
     "color": "#FFEDED",
