@@ -2,6 +2,20 @@
   {
     "title": "휴대폰결제",
     "amount": "45,678,901",
+    "start": "2018-03-01",
+    "color": "#e9fded",
+    "textColor": "#000"
+  },
+  {
+    "title": "[ 합 계 ]",
+    "amount": "32,345,678,901",
+    "start": "2018-03-01",
+    "color": "#FFEDED",
+    "textColor": "#ec0000"
+  },
+  {
+    "title": "휴대폰결제",
+    "amount": "45,678,901",
     "start": "2018-03-09",
     "color": "#e9fded",
     "textColor": "#000"
