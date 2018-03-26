@@ -1,120 +1,120 @@
 [
   {
-    "title": "휴대폰결제",
+    "title": " 휴대폰결제",
     "amount": "45,678,901",
     "start": "2018-03-01",
     "className": "fc-3-paid"
   },
   {
-    "title": "[ 합 계 ]",
+    "title": " [ 합 계 ]",
     "amount": "32,345,678,901",
     "start": "2018-03-01",
     "className": "fc-2-total"
   },
   {
-    "title": "휴대폰결제",
+    "title": " 휴대폰결제",
     "amount": "45,678,901",
     "start": "2018-03-05",
     "className": "fc-3-paid"
   },
   {
-    "title": "휴대폰결제",
+    "title": " 휴대폰결제",
     "amount": "3,231,444",
     "start": "2018-03-05",
     "className": "fc-3-paid"
   },
   {
-    "title": "[ 합 계 ]",
+    "title": " [ 합 계 ]",
     "amount": "32,345,678,901",
     "start": "2018-03-05",
     "className": "fc-2-total"
   },
   {
-    "title": "휴대폰결제",
+    "title": " 휴대폰결제",
     "amount": "12,345,678,901",
     "start": "2018-03-07",
     "className": "fc-3-paid"
   },
   {
-    "title": "문화상품권",
+    "title": " 문화상품권",
     "amount": "45,678,901",
     "start": "2018-03-07",
     "className": "fc-3-paid"
   },
   {
-    "title": "해피머니상품권",
+    "title": " 해피머니상품권",
     "amount": "345,678,901",
     "start": "2018-03-07",
     "className": "fc-3-paid"
   },
   {
-    "title": "[ 합 계 ]",
+    "title": " [ 합 계 ]",
     "amount": "32,345,678,901",
     "start": "2018-03-07",
     "className": "fc-2-total"
   },
   {
-    "title": "휴대폰결제",
+    "title": " 휴대폰결제",
     "amount": "12,345,678,901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "문화상품권",
+    "title": " 문화상품권",
     "amount": "45,678,901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "해피머니상품권",
+    "title": " 해피머니상품권",
     "amount": "345,678,901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "다날페이카드",
+    "title": " 다날페이카드",
     "amount": "12,345,678,901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "카드결제",
+    "title": " 카드결제",
     "amount": "78,901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "텐페이(온라인)",
+    "title": " 텐페이(온라인)",
     "amount": "45,678,901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "OK캐쉬백결제",
+    "title": " OK캐쉬백결제",
     "amount": "45,678,901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "해피머니상품권",
+    "title": " 해피머니상품권",
     "amount": "901",
     "start": "2018-03-08",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "[ 합 계 ]",
+    "title": " [ 합 계 ]",
     "amount": "32,345,678,901",
     "start": "2018-03-08",
     "className": "fc-2-total"
   },
   {
-    "title": "휴대폰결제",
+    "title": " 휴대폰결제",
     "amount": "45,678,901",
     "start": "2018-03-09",
     "className": "fc-4-unpaid"
   },
   {
-    "title": "[ 합 계 ]",
+    "title": " [ 합 계 ]",
     "amount": "32,345,678,901",
     "start": "2018-03-09",
     "className": "fc-2-total"
