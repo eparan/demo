@@ -53,8 +53,8 @@
     "title": "합계",
     "amount": "32,345,678,901",
     "start": "2018-03-07",
-    "color": "#FFEDED", // 합계배경
-    "textColor": "#ec0000" // 합계폰트색상
+    "color": "#FFEDED",
+    "textColor": "#ec0000"
   },
   {
     "title": "휴대폰결제",
@@ -109,14 +109,14 @@
     "title": "해피머니상품권",
     "amount": "901",
     "start": "2018-03-08",
-    "color": "#eef7ff", // 지급배경
-    "textColor": "#000" // 지급폰트색상 
+    "color": "#eef7ff",
+    "textColor": "#000"
   },
   {
     "title": "합계",
     "amount": "32,345,678,901",
     "start": "2018-03-08",
-    "color": "#FFEDED", // 합계배경
-    "textColor": "#ec0000" // 합계폰트색상
+    "color": "#FFEDED",
+    "textColor": "#ec0000"
   }
 ]
