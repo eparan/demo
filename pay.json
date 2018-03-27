@@ -1,13 +1,13 @@
 [
   {
     "title": "휴대폰결제",
-    "amount": "45,678,901",
+    "amount": "45678901",
     "start": "20180301",
     "className": "fc-3-paid"
   },
   {
     "title": "[ 합 계 ]",
-    "amount": "32,345,678,901",
+    "amount": "32345678901",
     "start": "20180301",
     "className": "fc-2-total"
   },
